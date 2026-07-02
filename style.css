@@ -27,8 +27,8 @@ body{
 .header{
   position: fixed;
   top: 1rem;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 60%;
+  transform: translateX(-60%);
   padding: 1rem 2rem;
   background: var(--primary);
   backdrop-filter: blur(10px);
@@ -36,7 +36,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 3rem;
+  gap: 5rem;
   border-radius: 3rem;
 }
 
