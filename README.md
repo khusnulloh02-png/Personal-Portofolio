@@ -6,10 +6,6 @@ A modern and responsive personal portfolio website built to showcase my profile,
 
 🔗 **Website:** https://personal-portofolio-one-pi.vercel.app
 
-## 📸 Preview
-
-> Add a screenshot of your portfolio here.
-
 ## ✨ Features
 
 * Responsive design for desktop, tablet, and mobile
@@ -27,20 +23,6 @@ A modern and responsive personal portfolio website built to showcase my profile,
 * CSS3
 * JavaScript (ES6)
 * Vercel (Deployment)
-
-## 📂 Project Structure
-
-```text
-personal-portfolio/
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── cv/
-├── css/
-├── js/
-├── index.html
-└── README.md
-```
 
 ## 💻 Getting Started
 
