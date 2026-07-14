@@ -5,5 +5,5 @@ export default function Header() {
                 <h1>Hallo</h1>
             </div>
         </section>
-    `
-};
+    `;
+}
